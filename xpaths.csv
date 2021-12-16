@@ -1,0 +1,11 @@
+name,xpath
+login-email-input,//*[@id="1-email"]
+login-password-input,//*[@id="custom-login-container"]/div/div/form/div/div/div/div/div[2]/div[2]/span/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div/input
+login-button,//*[@id="custom-login-container"]/div/div/form/div/div/div/button
+home-section,//*[@id="nav-home"]
+content-section,//*[@id="nav-content"]
+pages-section,//*[@id="nav-pages"]
+assets-section,//*[@id="nav-assets"]
+models-section,//*[@id="nav-models"]
+reports-section,//*[@id="nav-reports"]
+settings-section,//*[@id="nav-settings"]
